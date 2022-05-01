@@ -1,0 +1,15 @@
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\bin\Debug\net6.0\prac2_task1.exe
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\bin\Debug\net6.0\prac2_task1.deps.json
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\bin\Debug\net6.0\prac2_task1.runtimeconfig.json
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\bin\Debug\net6.0\prac2_task1.dll
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\bin\Debug\net6.0\prac2_task1.pdb
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.csproj.AssemblyReference.cache
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.AssemblyInfoInputs.cache
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.AssemblyInfo.cs
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.csproj.CoreCompileInputs.cache
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.dll
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\refint\prac2_task1.dll
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.pdb
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\prac2_task1.genruntimeconfig.cache
+D:\zzzzzzzzzz\papka papok3 the revenge\OPD UML\prac2_task1\prac2_task1\obj\Debug\net6.0\ref\prac2_task1.dll
